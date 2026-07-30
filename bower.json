@@ -5,7 +5,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/citizennet/purescript-fuzzy.git"
+    "url": "https://github.com/davezuch/purescript-fuzzy.git"
   },
   "ignore": [
     "**/.*",
